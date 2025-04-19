@@ -3,7 +3,7 @@ from gtts import gTTS
 import tempfile
 import os
 
-st.set_page_config(page_title="EchoScipt")
+st.set_page_config(page_title="EchoScipt    ")
 st.title("Welcome to EchoScipt")
 st.header("A 'Text to Speech' WebApp by Harsh Gupta")
 
