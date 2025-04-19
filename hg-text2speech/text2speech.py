@@ -4,7 +4,7 @@ import tempfile
 import os
 
 st.set_page_config(page_title="Text to Speech App")
-st.title("🗣️ Text to Speech App by Harsh")
+st.title("Text to Speech App by Harsh")
 
 # User input
 text = st.text_input("Enter text to convert to speech:")
