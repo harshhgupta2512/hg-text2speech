@@ -3,8 +3,9 @@ from gtts import gTTS
 import tempfile
 import os
 
-st.set_page_config(page_title="Text to Speech App")
-st.title("Text to Speech App by Harsh")
+st.set_page_config(page_title="EchoScipt")
+st.title("Welcome to EchoScipt")
+st.header("A 'Text to Speech' WebApp by Harsh Gupta")
 
 # User input
 text = st.text_input("Enter text to convert to speech:")
